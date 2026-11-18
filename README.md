@@ -1,80 +1,49 @@
-# Yash Shukla
+Hi, I'm Yash Shukla 👋
 
-## Aspiring .NET Developer | Frontend Developer
+Computer Science Graduate | Python Developer | AI/ML Enthusiast | Game Developer
 
-Computer Science graduate with strong fundamentals in frontend development and programming,
-currently transitioning into the .NET ecosystem. Focused on clean architecture, structured
-code, and long-term software engineering practices.
+I'm a Computer Science graduate interested in building software applications, exploring Artificial Intelligence and Machine Learning, and developing interactive games.
 
----
+💻 Technical Skills
 
-## Technical Skills
+- Programming: Python, Java, GDScript
+- AI & Data: Machine Learning, SQL, MySQL
+- Web Development: HTML, CSS, JavaScript
+- Game Development: Godot Engine, 2D Game Development
 
-**.NET (Learning & Practice)**
-- C#
-- ASP.NET Core
-- SQL & Database Fundamentals
-- REST API Concepts
+🚀 Featured Projects
 
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Web Design
-- Cross-Browser Compatibility
-- Accessibility (WCAG)
+1. Shadows of Valor – Fantasy Adventure RPG
 
-**Programming Languages**
-- Python
-- SQL
-- JavaScript
+- Fantasy RPG developed using Godot Engine and GDScript.
+- Exploration, combat, quests, inventory management and enemy AI.
+- Set in the fictional kingdom of Eldoria.
 
-**Tools**
-- Visual Studio
-- Git & GitHub
-- WordPress
+2. The Quest for the Lost Artifact
 
-**Cyber Security**
-- Kali Linux, Wireshark, Burp Suite
-- Ethical Hacking & Network Sniffing (Basics)
+- 2D action-adventure game developed using Pygame.
+- AI-controlled enemies and multiple game worlds.
+- Portal mechanics and interactive environments.
 
----
+3. Instagram Clone
 
-## Projects
+- Front-end project using HTML, CSS and JavaScript.
+- Responsive, mobile-friendly interface.
+- JavaScript performance optimization.
 
-### Shadows of Valor – 2D RPG Game
-- 12+ levels including secret zones
-- AI-based enemies and trap systems
-- Modular level design using JSON  
-**Tech:** Godot Engine
+📜 Certifications
 
-### Side-Scrolling Platformer (Pygame)
-- Custom AI logic and level editor
-- Modular and reusable architecture  
-**Tech:** Python, Pygame
+- Machine Learning with Python Training
+- Web Development By Doing: HTML / CSS From Scratch
+- HTML, CSS & JavaScript Certificate
 
-### Instagram Clone (Frontend)
-- Responsive UI built with HTML, CSS, JS
+🎯 Current Interests
 
-### WordPress Website
-- Custom themes and plugin integration
+- Python Development
+- Artificial Intelligence & Machine Learning
+- Game Development
+- Software Development
 
----
+🤝 Let's Connect
 
-## Education
-
-**Bachelor of Computer Science (2022–2025)**  
-Shree L.R. Tiwari Degree College  
-CGPA: 6.21 / 10
-
----
-
-## Currently Learning
-- ASP.NET Core MVC
-- C# Advanced Concepts
-- SQL Server with .NET
-
----
-
-## Contact
-- Email: ys319225@gmail.com
-- GitHub:[ https://github.com/yourusername](https://github.com/YASHSHUKLA98<)
-- LinkedIn: https://linkedin.com/in/yourprofile
+I'm interested in collaborating on programming, AI/ML and game-development projects.
